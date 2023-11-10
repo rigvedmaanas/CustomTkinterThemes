@@ -33,3 +33,13 @@ This theme is an extreme exaggeration of light and dark modes. Both the modes co
 
 # Description
 This theme uses an orangish color as the primary color.
+
+***
+
+# Hacked ([Click here to download it](https://raw.githubusercontent.com/rigvedmaanas/CustomTkinterThemes/main/Download/Hacked.zip))
+![Hacked](https://github.com/rigvedmaanas/CustomTkinterThemes/assets/77579661/14328128-51a3-45b5-ba32-8db9220c1737)
+
+
+# Description
+- There is no Light/Dark Mode. It is the same for both. Anyways who uses light mode while hacking 😉. Inspired from "HackTheBox"
+
