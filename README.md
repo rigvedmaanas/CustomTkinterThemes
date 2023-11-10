@@ -1,5 +1,5 @@
 # CustomTkinter Themes
-## This is a list of themes for the customtkinter library.
+## This is a list of themes for the customtkinter library. Choose one download it use it right away ✈️
 
 ***
 
