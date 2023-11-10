@@ -22,3 +22,14 @@
 
 # Description
 This theme is an extreme exaggeration of light and dark modes. Both the modes contain shades of black and white only.
+
+***
+
+# Orangish ([Click here to download it](https://raw.githubusercontent.com/rigvedmaanas/CustomTkinterThemes/main/Download/Orangish.zip))
+# Light Mode
+![Orangish-Light](https://github.com/rigvedmaanas/CustomTkinterThemes/assets/77579661/07411e3f-5f6a-452b-b5f2-e6eb1e0221a5)
+# Dark Mode
+![Orangish-Dark](https://github.com/rigvedmaanas/CustomTkinterThemes/assets/77579661/dfbefe6c-9e22-4909-9344-4619f3b99d8e)
+
+# Description
+This theme uses an orangish color as the primary color.
