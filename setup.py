@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="CustomTkinterThemes",
-    version="0.2.0",
+    version="1.0.0",
     description="A theme manager for CustomTkinter",
     long_description=long_description,
     long_description_content_type="text/markdown",
