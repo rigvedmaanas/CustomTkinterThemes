@@ -1,17 +1,33 @@
 # CustomTkinter Themes
-## This is a list of themes for the customtkinter library.
-## Choose one --> Download it --> Use it right away in your project and make your UI stunning ⭐
+## This is a custom theme manager for customtkinter
+
+
+# How To Use
+```commandline
+pip3 install CustomTkinterThemes
+```
+Import it
+```python
+from customtkinterthemes import theme_manager
+```
+```python
+set_default_color_theme(theme_manager.get("themename"))
+```
+If it shows that some fonts are not installed go ahead and follow the instructions 
+
+# Methods
+`.get(theme_name: str) -> Path:`
+Returns the path to theme which can be passed to the `set_default_color_theme` in customtkinter to set theme
+
 
 ***
 
-# Flipper Zero Theme ([Click here to download it](https://raw.githubusercontent.com/rigvedmaanas/CustomTkinterThemes/main/Download/FlipperZero.zip))
+# Flipper Zero Theme (```theme_manager.load_theme("flipperzero")```)
 ![Flipper Zero Theme](https://user-images.githubusercontent.com/77579661/230898343-7892083b-a06d-4f64-9be8-a865654dfb29.png)
 
 # Description
 - There is no Light/Dark Mode. It is the same for both.
 - Install the font HaxrCorp-4089 (included with the theme).
-- Found that scrollbar hides when border is added to CTkScrollableFrame. So use `ctk_scrollable_frame.py` which is included with the theme which fixes the issue.
-
 ***
 
 # Extreme ([Click here to download it](https://raw.githubusercontent.com/rigvedmaanas/CustomTkinterThemes/main/Download/Extreme.zip))

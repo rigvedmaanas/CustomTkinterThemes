@@ -1,0 +1,2 @@
+recursive-include src/customtkinterthemes/Themes *.json
+recursive-include src/customtkinterthemes/Fonts *.ttf
